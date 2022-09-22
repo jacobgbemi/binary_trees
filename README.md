@@ -23,5 +23,23 @@ This project includes the following tasks
 ## Authors
 Gbemi Adebayo [Github](https://github.com/jacobgbemi) and Helina Gebreyes [Github](https://github.com/helinaabye)
 
-#### Advanced Tasks
-
+## Advanced Tasks
+19. Lowest common ancestor - Write a function that finds the lowest common ancestor of two nodes
+20. Level-order traversal - Write a function that goes through a binary tree using level-order traversal
+21. Is complete - Write a function that checks if a binary tree is complete
+22. Rotate left - Write a function that performs a left-rotation on a binary tree
+23. Rotate right - Write a function that performs a right-rotation on a binary tree
+24. Is BST - Write a function that checks if a binary tree is a valid Binary Search Tree
+25. BST - Insert - Write a function that inserts a value in a Binary Search Tree
+26. BST - Array to BST - Write a function that builds a Binary Search Tree from an array
+27. BST - Search - Write a function that searches for a value in a Binary Search Tree
+28. BST - Remove - Write a function that removes a node from a Binary Search Tree
+29. Big O #BST - What are the average time complexities of those operations on a Binary Search Tree (one answer per line):
+30. Is AVL - Write a function that checks if a binary tree is a valid AVL Tree
+31. AVL - Insert - Write a function that inserts a value in an AVL Tree
+32. AVL - Array to AVL - Write a function that builds an AVL tree from an array
+33. AVL - Remove - Write a function that removes a node from an AVL tree
+34. 
+35. Big O #AVL Tree - What are the average time complexities of those operations on an AVL Tree (one answer per line):
+37. Heap - Insert - Write a function that inserts a value in Max Binary Heap
+41. Big O #Binary Heap - What are the average time complexities of those operations on a Binary Heap (one answer per line):
